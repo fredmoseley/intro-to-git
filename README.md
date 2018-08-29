@@ -30,7 +30,9 @@ create a .gitignore file - line delimited list of file names
 
 - Changing branches
     git checkout <branch name>
+
 - Merging a branch
+        git merge <branch name>
 - Removing a branch
 - 
       /----0----0----0        
