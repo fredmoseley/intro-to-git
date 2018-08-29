@@ -18,3 +18,4 @@ git add -A
 it reset HEAD file2.txt
 
 # Ignoring files
+create a .gitignore file - line delimited list of file names
