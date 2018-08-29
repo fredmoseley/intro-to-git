@@ -33,8 +33,11 @@ create a .gitignore file - line delimited list of file names
 
 - Merging a branch
         git merge <branch name>
+    So we would switch to master and then merge git merge feature1
 - Removing a branch
-- 
+- Likely shouldn't do this
+        git branch -d <branch name>
+
       /----0----0----0        
      /              /
 0----0----0----0----0
