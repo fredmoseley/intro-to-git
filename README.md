@@ -19,3 +19,20 @@ it reset HEAD file2.txt
 
 # Ignoring files
 create a .gitignore file - line delimited list of file names
+
+# Git Branches
+- Listing all branches
+     git branch
+
+- Adding a branches
+     git checkout -b feature1
+ 
+
+- Changing branches
+    git checkout <branch name>
+- Merging a branch
+- Removing a branch
+- 
+      /----0----0----0        
+     /              /
+0----0----0----0----0
